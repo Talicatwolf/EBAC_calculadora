@@ -1,0 +1,4 @@
+nano calculadora.py #Criar o arquivo python para ser executado
+nano calculadora.sh #Criar o script de execução da calculadora
+chmod 744 calculadora.sh #Adicionar permissão para o script ser executado
+./calculadora.sh #Executa o script
